@@ -1,0 +1,4 @@
+{
+  "username": "some_user",
+  "password": "some_users_password_or_better_yet_an_api_token"
+}

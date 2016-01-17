@@ -1,0 +1,18 @@
+{
+  "name": "weekly-kibana",
+  "version": "1.0.0",
+  "description": "Generates a markdown formatted version of the weekly Kibana update",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "lodash": "^4.0.0",
+    "markdown": "^0.5.0",
+    "moment": "^2.11.1",
+    "node-fetch": "^1.3.3"
+  }
+}
